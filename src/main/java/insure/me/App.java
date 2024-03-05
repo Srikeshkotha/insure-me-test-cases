@@ -34,7 +34,7 @@ public class App
         System.out.println("Script Executing");
         
       //1.Open the browser and get the url
-        driver.get("http://localhost:8081/contact.html");
+        driver.get("http://54.82.241.90:8084/contact.html");
         Thread.sleep(1000);
         
      //2.enable wait for 3 seconds
